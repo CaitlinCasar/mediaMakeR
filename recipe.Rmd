@@ -1,0 +1,11 @@
+# Media Recipe
+<h3 style='color:red'>Trace Element Solution</h3>
+```{r, echo=F}
+knitr::kable(TErecipe) %>%
+                kableExtra::kable_styling(c("hover","stripe"))
+```
+### Basal Media
+```{r, echo=F}
+knitr::kable(baseRecipe) %>%
+                kableExtra::kable_styling(c("hover","stripe"))
+```
