@@ -1,0 +1,10 @@
+Package: mediaMakeR
+Type: Package
+Title: mediaMakeR
+Version: 0.1.0
+Author: Caitlin Casar
+Maintainer: <cpc0707@gmail.com>
+Description: This package designs custom media recipes to mimick environmental data.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
